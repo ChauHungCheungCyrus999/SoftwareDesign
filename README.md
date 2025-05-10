@@ -4,6 +4,7 @@
 - **📄 Project Plan**: [View the Plan](https://github.com/ChauHungCheungCyrus999/SoftwareDesign/blob/main/Plan%20for%20CS3342%20Software%20Design.docx)
 - **🎤 PowerPoint Presentation**: [Check it Out](https://github.com/ChauHungCheungCyrus999/SoftwareDesign/blob/main/Presentation%20for%20CS3342%20Software%20Design1%20_.pdf)
 - **📝 Final Report**: [Read the Report](https://github.com/ChauHungCheungCyrus999/SoftwareDesign/blob/main/CS3342_Group%20Project%20Report.docx)
+- **📈 Class Diagram**: [Read the Report](https://github.com/ChauHungCheungCyrus999/SoftwareDesign/blob/main/project-online-2nd-hand-platform-design_final.vpp)
 
 ## 👥 Team Contributions
 Our dedicated team has worked hard to cover the following key tasks:
