@@ -1,15 +1,15 @@
-# Cs3342 SoftwareDesign
+# Cs3342 Software Design
 
-LINK
-Plan : *Link to the helpful section: [Link Text](#thisll-be-a-helpful-section-about-the-greek-letter-Θ).
-PPT : *Link to the helpful section: [Link Text](#thisll-be-a-helpful-section-about-the-greek-letter-Θ).
-Report : *Link to the helpful section: [Link Text](#thisll-be-a-helpful-section-about-the-greek-letter-Θ).
+## Links
+- **Plan**: [Helpful Section](#thisll-be-a-helpful-section-about-the-greek-letter-Θ)
+- **PPT**: [Helpful Section](#thisll-be-a-helpful-section-about-the-greek-letter-Θ)
+- **Report**: [Helpful Section](https://github.com/ChauHungCheungCyrus999/SoftwareDesign/blob/main/CS3342_Group%20Project%20Report.docx)
 
-Me and my groupmates have done the following task:
-- Use case diagram and specification
-- Class digram
+## Team Contributions
+My groupmates and I completed the following tasks:
+- Use Case Diagram and Specification
+- Class Diagram
 - Sequence Diagram
 - Prototype
-- PowerPoint
-- Report
-
+- PowerPoint Presentation
+- Final Report
