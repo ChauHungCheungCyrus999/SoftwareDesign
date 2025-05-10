@@ -15,5 +15,3 @@ Our dedicated team has worked hard to cover the following key tasks:
 - **Final Report**: Documenting our journey and outcomes
 
 Feel free to explore the links and dive into our work! We appreciate your feedback and support! 🎉
-
-## Picture
